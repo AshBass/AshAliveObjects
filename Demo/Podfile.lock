@@ -1,0 +1,16 @@
+PODS:
+  - AshAliveObjects (0.0.1)
+
+DEPENDENCIES:
+  - AshAliveObjects (from `../`)
+
+EXTERNAL SOURCES:
+  AshAliveObjects:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AshAliveObjects: f76eeb86f5b593d1c4d9fef2c89decc88bad39b6
+
+PODFILE CHECKSUM: f282a569ea7733a0e584b3fb129a8278abd85552
+
+COCOAPODS: 1.9.1
